@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaywiz16
 - 👀 I’m interested in web3 and equity
-- 🌱 I’m currently learning front-end development, data structure and blockchain
+- 🌱 I’m currently learning front-end development,devops and blockchain fundamentals
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me :https://twitter.com/jay_wiz16 or mob: 7982650373
 
