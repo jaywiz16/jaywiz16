@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaywiz16
+- 👋 Hi, I’m jaiansh sharma
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning Devops and front-end development
 - 💞️ I’m looking to collaborate on devops or web3 projects
